@@ -1,0 +1,6 @@
+Please select the emotion of the text entered by the user from the following: 
+joy
+curiosity
+sadness
+anger
+neutral
